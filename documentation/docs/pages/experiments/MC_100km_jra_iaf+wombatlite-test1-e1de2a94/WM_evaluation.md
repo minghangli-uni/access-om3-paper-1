@@ -6,14 +6,14 @@ Evaluation figures from ACCESS-OM3 experiment **MC_100km_jra_iaf+wombatlite-test
 
 ## Water mass density change Hovmoller
  
-![`WM_evaluation.ipynb`: ACCESS-OM3 WM density change](https://ndownloader.figshare.com/files/71102625) 
+![`WM_evaluation.ipynb`: ACCESS-OM3 WM density change](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/WM_evaluation_01.png) 
  
  Caption: `WM_evaluation.ipynb`: ACCESS-OM3 WM density change
  
 
 ## Water mass density change Hovmoller - Dense Waters only
  
-![`WM_evaluation.ipynb`: ACCESS-OM3 Dense WM density change](https://ndownloader.figshare.com/files/71102628) 
+![`WM_evaluation.ipynb`: ACCESS-OM3 Dense WM density change](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/WM_evaluation_02.png) 
  
  Caption: `WM_evaluation.ipynb`: ACCESS-OM3 Dense WM density change
  

@@ -6,14 +6,14 @@ Evaluation figures from ACCESS-OM3 experiment **MC_100km_jra_iaf+wombatlite-test
 
 ## Sea Ice and snow volume timeseries
  
-![`SeaIce_Vol.ipynb`: Sea Ice Volume timeseries. [GitHub issue: Sea ice volume time series](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/20)](https://ndownloader.figshare.com/files/71102493) 
+![`SeaIce_Vol.ipynb`: Sea Ice Volume timeseries. [GitHub issue: Sea ice volume time series](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/20)](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/SeaIce_Vol_01.png) 
  
  Caption: `SeaIce_Vol.ipynb`: Sea Ice Volume timeseries. [GitHub issue: Sea ice volume time series](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/20)
  
 
 ## Sea Ice Volume: Maximum Thickness Timeseries
  
-![`SeaIce_Vol.ipynb`: Sea Ice maximum timeseries. [GitHub issue: Sea ice thickness/concentration](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/22)](https://ndownloader.figshare.com/files/71102496) 
+![`SeaIce_Vol.ipynb`: Sea Ice maximum timeseries. [GitHub issue: Sea ice thickness/concentration](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/22)](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/SeaIce_Vol_02.png) 
  
  Caption: `SeaIce_Vol.ipynb`: Sea Ice maximum timeseries. [GitHub issue: Sea ice thickness/concentration](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/22)
  

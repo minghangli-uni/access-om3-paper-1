@@ -6,42 +6,42 @@ Evaluation figures from ACCESS-OM3 experiment **MC_100km_jra_iaf+wombatlite-test
 
 ## Meridional Heat Transport
  
-![`MeridionalHeatTransport.ipynb`: Zonally-integrated meridional heat transport for MC_100km_jra_iaf+wombatlite-test1-e1de2a94 (advective + diffusive components).](https://ndownloader.figshare.com/files/71102013) 
+![`MeridionalHeatTransport.ipynb`: Zonally-integrated meridional heat transport for MC_100km_jra_iaf+wombatlite-test1-e1de2a94 (advective + diffusive components).](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/MeridionalHeatTransport_01.png) 
  
  Caption: `MeridionalHeatTransport.ipynb`: Zonally-integrated meridional heat transport for MC_100km_jra_iaf+wombatlite-test1-e1de2a94 (advective + diffusive components).
  
 
 ## Meridional Heat Transport
  
-![`MeridionalHeatTransport.ipynb`: Zonally-integrated meridional heat transport for ACCESS-OM2-025 025deg_jra55_iaf_omip2_cycle1 (advective, GM, ndiffuse, submeso components).](https://ndownloader.figshare.com/files/71102016) 
+![`MeridionalHeatTransport.ipynb`: Zonally-integrated meridional heat transport for ACCESS-OM2-025 025deg_jra55_iaf_omip2_cycle1 (advective, GM, ndiffuse, submeso components).](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/MeridionalHeatTransport_02.png) 
  
  Caption: `MeridionalHeatTransport.ipynb`: Zonally-integrated meridional heat transport for ACCESS-OM2-025 025deg_jra55_iaf_omip2_cycle1 (advective, GM, ndiffuse, submeso components).
  
 
 ## Meridional Heat Transport
  
-![`MeridionalHeatTransport.ipynb`: Meridional heat transport time mean, all experiments.](https://ndownloader.figshare.com/files/71102019) 
+![`MeridionalHeatTransport.ipynb`: Meridional heat transport time mean, all experiments.](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/MeridionalHeatTransport_03.png) 
  
  Caption: `MeridionalHeatTransport.ipynb`: Meridional heat transport time mean, all experiments.
  
 
 ## Meridional Heat Transport
  
-![`MeridionalHeatTransport.ipynb`: Meridional heat transport across all ACCESS-OM2-025 OMIP cycles, ACCESS-OM2-01 cycle3, and the CM2 reference.](https://ndownloader.figshare.com/files/71102025) 
+![`MeridionalHeatTransport.ipynb`: Meridional heat transport across all ACCESS-OM2-025 OMIP cycles, ACCESS-OM2-01 cycle3, and the CM2 reference.](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/MeridionalHeatTransport_04.png) 
  
  Caption: `MeridionalHeatTransport.ipynb`: Meridional heat transport across all ACCESS-OM2-025 OMIP cycles, ACCESS-OM2-01 cycle3, and the CM2 reference.
  
 
 ## Meridional Heat Transport
  
-![`MeridionalHeatTransport.ipynb`: Global ocean meridional heat transport. [GitHub issue: Total meridional heat transport](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/12)](https://ndownloader.figshare.com/files/71102028) 
+![`MeridionalHeatTransport.ipynb`: Global ocean meridional heat transport. [GitHub issue: Total meridional heat transport](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/12)](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/MeridionalHeatTransport_05.png) 
  
  Caption: `MeridionalHeatTransport.ipynb`: Global ocean meridional heat transport. [GitHub issue: Total meridional heat transport](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/12)
  
 
 ## Meridional Heat Transport
  
-![`MeridionalHeatTransport.ipynb`: Global ocean meridional heat transport split into basins. [GitHub issue: Total meridional heat transport](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/12)](https://ndownloader.figshare.com/files/71102031) 
+![`MeridionalHeatTransport.ipynb`: Global ocean meridional heat transport split into basins. [GitHub issue: Total meridional heat transport](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/12)](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/MeridionalHeatTransport_06.png) 
  
  Caption: `MeridionalHeatTransport.ipynb`: Global ocean meridional heat transport split into basins. [GitHub issue: Total meridional heat transport](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/12)
  

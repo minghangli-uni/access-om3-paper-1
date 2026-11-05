@@ -6,105 +6,105 @@ Evaluation figures from ACCESS-OM3 experiment **MC_100km_jra_iaf+wombatlite-test
 
 ## Current Speed
  
-![`Currents_streamfunction_variability.ipynb`: Model vs drifter current speed (surface). Region: Agulhas region](https://ndownloader.figshare.com/files/71102439) 
+![`Currents_streamfunction_variability.ipynb`: Model vs drifter current speed (surface). Region: Agulhas region](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Currents_streamfunction_variability_01.png) 
  
  Caption: `Currents_streamfunction_variability.ipynb`: Model vs drifter current speed (surface). Region: Agulhas region
  
 
 ## Current Speed
  
-![`Currents_streamfunction_variability.ipynb`: Model vs drifter current speed (surface). Region: EAC region](https://ndownloader.figshare.com/files/71102442) 
+![`Currents_streamfunction_variability.ipynb`: Model vs drifter current speed (surface). Region: EAC region](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Currents_streamfunction_variability_02.png) 
  
  Caption: `Currents_streamfunction_variability.ipynb`: Model vs drifter current speed (surface). Region: EAC region
  
 
 ## Current Speed
  
-![`Currents_streamfunction_variability.ipynb`: Model vs drifter current speed (surface). Region: Kuroshio region](https://ndownloader.figshare.com/files/71102445) 
+![`Currents_streamfunction_variability.ipynb`: Model vs drifter current speed (surface). Region: Kuroshio region](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Currents_streamfunction_variability_03.png) 
  
  Caption: `Currents_streamfunction_variability.ipynb`: Model vs drifter current speed (surface). Region: Kuroshio region
  
 
 ## Current Speed
  
-![`Currents_streamfunction_variability.ipynb`: Model vs drifter current speed (surface). Region: Gulf Stream region](https://ndownloader.figshare.com/files/71102448) 
+![`Currents_streamfunction_variability.ipynb`: Model vs drifter current speed (surface). Region: Gulf Stream region](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Currents_streamfunction_variability_04.png) 
  
  Caption: `Currents_streamfunction_variability.ipynb`: Model vs drifter current speed (surface). Region: Gulf Stream region
  
 
 ## Current Speed
  
-![`Currents_streamfunction_variability.ipynb`: Model vs drifter current speed (surface). Region: Argentine Basin](https://ndownloader.figshare.com/files/71102451) 
+![`Currents_streamfunction_variability.ipynb`: Model vs drifter current speed (surface). Region: Argentine Basin](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Currents_streamfunction_variability_05.png) 
  
  Caption: `Currents_streamfunction_variability.ipynb`: Model vs drifter current speed (surface). Region: Argentine Basin
  
 
 ## Current Speed
  
-![`Currents_streamfunction_variability.ipynb`: Model vs drifter current speed (1000m). Region: Agulhas region](https://ndownloader.figshare.com/files/71102454) 
+![`Currents_streamfunction_variability.ipynb`: Model vs drifter current speed (1000m). Region: Agulhas region](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Currents_streamfunction_variability_06.png) 
  
  Caption: `Currents_streamfunction_variability.ipynb`: Model vs drifter current speed (1000m). Region: Agulhas region
  
 
 ## Current Speed
  
-![`Currents_streamfunction_variability.ipynb`: Model vs drifter current speed (1000m). Region: EAC region](https://ndownloader.figshare.com/files/71102457) 
+![`Currents_streamfunction_variability.ipynb`: Model vs drifter current speed (1000m). Region: EAC region](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Currents_streamfunction_variability_07.png) 
  
  Caption: `Currents_streamfunction_variability.ipynb`: Model vs drifter current speed (1000m). Region: EAC region
  
 
 ## Current Speed
  
-![`Currents_streamfunction_variability.ipynb`: Model vs drifter current speed (1000m). Region: Kuroshio region](https://ndownloader.figshare.com/files/71102460) 
+![`Currents_streamfunction_variability.ipynb`: Model vs drifter current speed (1000m). Region: Kuroshio region](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Currents_streamfunction_variability_08.png) 
  
  Caption: `Currents_streamfunction_variability.ipynb`: Model vs drifter current speed (1000m). Region: Kuroshio region
  
 
 ## Current Speed
  
-![`Currents_streamfunction_variability.ipynb`: Model vs drifter current speed (1000m). Region: Gulf Stream region](https://ndownloader.figshare.com/files/71102466) 
+![`Currents_streamfunction_variability.ipynb`: Model vs drifter current speed (1000m). Region: Gulf Stream region](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Currents_streamfunction_variability_09.png) 
  
  Caption: `Currents_streamfunction_variability.ipynb`: Model vs drifter current speed (1000m). Region: Gulf Stream region
  
 
 ## Current Speed
  
-![`Currents_streamfunction_variability.ipynb`: Model vs drifter current speed (1000m). Region: Argentine Basin](https://ndownloader.figshare.com/files/71102469) 
+![`Currents_streamfunction_variability.ipynb`: Model vs drifter current speed (1000m). Region: Argentine Basin](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Currents_streamfunction_variability_10.png) 
  
  Caption: `Currents_streamfunction_variability.ipynb`: Model vs drifter current speed (1000m). Region: Argentine Basin
  
 
 ## Sea level standard deviation and barotropic streamfunction
  
-![`Currents_streamfunction_variability.ipynb`: Model vs altimeter sea surface height standard deviation (m) and barotropic streamfunction. Region: Agulhas region](https://ndownloader.figshare.com/files/71102472) 
+![`Currents_streamfunction_variability.ipynb`: Model vs altimeter sea surface height standard deviation (m) and barotropic streamfunction. Region: Agulhas region](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Currents_streamfunction_variability_11.png) 
  
  Caption: `Currents_streamfunction_variability.ipynb`: Model vs altimeter sea surface height standard deviation (m) and barotropic streamfunction. Region: Agulhas region
  
 
 ## Sea level standard deviation and barotropic streamfunction
  
-![`Currents_streamfunction_variability.ipynb`: Model vs altimeter sea surface height standard deviation (m) and barotropic streamfunction. Region: EAC region](https://ndownloader.figshare.com/files/71102475) 
+![`Currents_streamfunction_variability.ipynb`: Model vs altimeter sea surface height standard deviation (m) and barotropic streamfunction. Region: EAC region](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Currents_streamfunction_variability_12.png) 
  
  Caption: `Currents_streamfunction_variability.ipynb`: Model vs altimeter sea surface height standard deviation (m) and barotropic streamfunction. Region: EAC region
  
 
 ## Sea level standard deviation and barotropic streamfunction
  
-![`Currents_streamfunction_variability.ipynb`: Model vs altimeter sea surface height standard deviation (m) and barotropic streamfunction. Region: Kuroshio region](https://ndownloader.figshare.com/files/71102478) 
+![`Currents_streamfunction_variability.ipynb`: Model vs altimeter sea surface height standard deviation (m) and barotropic streamfunction. Region: Kuroshio region](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Currents_streamfunction_variability_13.png) 
  
  Caption: `Currents_streamfunction_variability.ipynb`: Model vs altimeter sea surface height standard deviation (m) and barotropic streamfunction. Region: Kuroshio region
  
 
 ## Sea level standard deviation and barotropic streamfunction
  
-![`Currents_streamfunction_variability.ipynb`: Model vs altimeter sea surface height standard deviation (m) and barotropic streamfunction. Region: Gulf Stream region](https://ndownloader.figshare.com/files/71102484) 
+![`Currents_streamfunction_variability.ipynb`: Model vs altimeter sea surface height standard deviation (m) and barotropic streamfunction. Region: Gulf Stream region](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Currents_streamfunction_variability_14.png) 
  
  Caption: `Currents_streamfunction_variability.ipynb`: Model vs altimeter sea surface height standard deviation (m) and barotropic streamfunction. Region: Gulf Stream region
  
 
 ## Sea level standard deviation and barotropic streamfunction
  
-![`Currents_streamfunction_variability.ipynb`: Model vs altimeter sea surface height standard deviation (m) and barotropic streamfunction. Region: Argentine Basin](https://ndownloader.figshare.com/files/71102487) 
+![`Currents_streamfunction_variability.ipynb`: Model vs altimeter sea surface height standard deviation (m) and barotropic streamfunction. Region: Argentine Basin](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Currents_streamfunction_variability_15.png) 
  
  Caption: `Currents_streamfunction_variability.ipynb`: Model vs altimeter sea surface height standard deviation (m) and barotropic streamfunction. Region: Argentine Basin
  

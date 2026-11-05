@@ -6,7 +6,7 @@ Evaluation figures from ACCESS-OM3 experiment **MC_100km_jra_iaf+wombatlite-test
 
 ## Numerical mixing notebook
  
-![`numerical_mixing_ACCESS_OM3.ipynb`: Time mean, depth integrated spurious variance prodcution of temperature](https://ndownloader.figshare.com/files/71102688) 
+![`numerical_mixing_ACCESS_OM3.ipynb`: Time mean, depth integrated spurious variance prodcution of temperature](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/numerical_mixing_ACCESS_OM3_01.png) 
  
  Caption: `numerical_mixing_ACCESS_OM3.ipynb`: Time mean, depth integrated spurious variance prodcution of temperature
  

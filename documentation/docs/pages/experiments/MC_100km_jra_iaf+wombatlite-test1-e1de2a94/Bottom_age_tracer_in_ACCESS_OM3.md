@@ -6,7 +6,7 @@ Evaluation figures from ACCESS-OM3 experiment **MC_100km_jra_iaf+wombatlite-test
 
 ## Bottom age tracer
  
-![`Bottom_age_tracer_in_ACCESS_OM3.ipynb`: Normalised bottom age comparing ACCESS-OM3 and ACCESS-OM2 at year 1970](https://ndownloader.figshare.com/files/71101686) 
+![`Bottom_age_tracer_in_ACCESS_OM3.ipynb`: Normalised bottom age comparing ACCESS-OM3 and ACCESS-OM2 at year 1970](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Bottom_age_tracer_in_ACCESS_OM3_01.png) 
  
  Caption: `Bottom_age_tracer_in_ACCESS_OM3.ipynb`: Normalised bottom age comparing ACCESS-OM3 and ACCESS-OM2 at year 1970
  

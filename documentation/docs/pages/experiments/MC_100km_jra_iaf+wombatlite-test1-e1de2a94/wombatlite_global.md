@@ -6,21 +6,21 @@ Evaluation figures from ACCESS-OM3 experiment **MC_100km_jra_iaf+wombatlite-test
 
 ## Reference metrics for WOMBATlite global assessment.
  
-![`wombatlite_global.ipynb`: Observations and observation-based metrics for WOMBATlite global assessment.](https://ndownloader.figshare.com/files/71102421) 
+![`wombatlite_global.ipynb`: Observations and observation-based metrics for WOMBATlite global assessment.](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/wombatlite_global_01.png) 
  
  Caption: `wombatlite_global.ipynb`: Observations and observation-based metrics for WOMBATlite global assessment.
  
 
 ## WOMBATlite global assessment metrics.
  
-![`wombatlite_global.ipynb`: Model metrics for WOMBATlite global assessment.](https://ndownloader.figshare.com/files/71102427) 
+![`wombatlite_global.ipynb`: Model metrics for WOMBATlite global assessment.](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/wombatlite_global_02.png) 
  
  Caption: `wombatlite_global.ipynb`: Model metrics for WOMBATlite global assessment.
  
 
 ## WOMBATlite Taylor diagrams.
  
-![`wombatlite_global.ipynb`: Taylor diagrams for WOMBATlite global assessment.](https://ndownloader.figshare.com/files/71102430) 
+![`wombatlite_global.ipynb`: Taylor diagrams for WOMBATlite global assessment.](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/wombatlite_global_03.png) 
  
  Caption: `wombatlite_global.ipynb`: Taylor diagrams for WOMBATlite global assessment.
  

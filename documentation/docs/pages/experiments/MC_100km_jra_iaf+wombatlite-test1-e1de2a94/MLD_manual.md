@@ -6,14 +6,14 @@ Evaluation figures from ACCESS-OM3 experiment **MC_100km_jra_iaf+wombatlite-test
 
 ## Mixed Layer Depth: Manual Model Anomaly vs Observed JFM (side by side)
  
-![`MLD_manual.ipynb`: Side-by-side comparison of manually calculated model MLD anomaly and DeBoyer Montegut (2023) observed MLD, JFM mean. GitHub issue: [#38](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/38)](https://ndownloader.figshare.com/files/71102634) 
+![`MLD_manual.ipynb`: Side-by-side comparison of manually calculated model MLD anomaly and DeBoyer Montegut (2023) observed MLD, JFM mean. GitHub issue: [#38](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/38)](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/MLD_manual_01.png) 
  
  Caption: `MLD_manual.ipynb`: Side-by-side comparison of manually calculated model MLD anomaly and DeBoyer Montegut (2023) observed MLD, JFM mean. GitHub issue: [#38](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/38)
  
 
 ## Mixed Layer Depth: Manual Model Anomaly vs Observed JAS (side by side)
  
-![`MLD_manual.ipynb`: Side-by-side comparison of manually calculated model MLD anomaly and DeBoyer Montegut (2023) observed MLD, JAS mean. GitHub issue: [#38](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/38)](https://ndownloader.figshare.com/files/71102640) 
+![`MLD_manual.ipynb`: Side-by-side comparison of manually calculated model MLD anomaly and DeBoyer Montegut (2023) observed MLD, JAS mean. GitHub issue: [#38](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/38)](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/MLD_manual_02.png) 
  
  Caption: `MLD_manual.ipynb`: Side-by-side comparison of manually calculated model MLD anomaly and DeBoyer Montegut (2023) observed MLD, JAS mean. GitHub issue: [#38](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/38)
  

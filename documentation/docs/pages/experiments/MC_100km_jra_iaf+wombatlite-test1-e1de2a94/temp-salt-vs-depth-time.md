@@ -6,28 +6,28 @@ Evaluation figures from ACCESS-OM3 experiment **MC_100km_jra_iaf+wombatlite-test
 
 ## Horizontal mean temperature and salinity Hovmollers
  
-![`temp-salt-vs-depth-time.ipynb`: ACCESS-OM3 and ACCESS-OM2 horizontal mean thetao Hovmollers: drift from initial condition, vs depth and time. [GitHub issue: Hovmoller temperature anomaly (depth-time)](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/8)](https://ndownloader.figshare.com/files/71102037) 
+![`temp-salt-vs-depth-time.ipynb`: ACCESS-OM3 and ACCESS-OM2 horizontal mean thetao Hovmollers: drift from initial condition, vs depth and time. [GitHub issue: Hovmoller temperature anomaly (depth-time)](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/8)](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/temp-salt-vs-depth-time_01.png) 
  
  Caption: `temp-salt-vs-depth-time.ipynb`: ACCESS-OM3 and ACCESS-OM2 horizontal mean thetao Hovmollers: drift from initial condition, vs depth and time. [GitHub issue: Hovmoller temperature anomaly (depth-time)](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/8)
  
 
 ## Horizontal mean temperature and salinity Hovmollers
  
-![`temp-salt-vs-depth-time.ipynb`: ACCESS-OM3 and ACCESS-OM2 horizontal mean thetao Hovmollers: drift from initial condition, vs depth and time. [GitHub issue: Hovmoller temperature anomaly (depth-time)](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/8)](https://ndownloader.figshare.com/files/71102043) 
+![`temp-salt-vs-depth-time.ipynb`: ACCESS-OM3 and ACCESS-OM2 horizontal mean thetao Hovmollers: drift from initial condition, vs depth and time. [GitHub issue: Hovmoller temperature anomaly (depth-time)](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/8)](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/temp-salt-vs-depth-time_02.png) 
  
  Caption: `temp-salt-vs-depth-time.ipynb`: ACCESS-OM3 and ACCESS-OM2 horizontal mean thetao Hovmollers: drift from initial condition, vs depth and time. [GitHub issue: Hovmoller temperature anomaly (depth-time)](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/8)
  
 
 ## Horizontal mean temperature and salinity Hovmollers
  
-![`temp-salt-vs-depth-time.ipynb`: ACCESS-OM3 and ACCESS-OM2 horizontal mean so Hovmollers: drift from initial condition, vs depth and time. [GitHub issue: Hovmoller temperature anomaly (depth-time)](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/8)](https://ndownloader.figshare.com/files/71102049) 
+![`temp-salt-vs-depth-time.ipynb`: ACCESS-OM3 and ACCESS-OM2 horizontal mean so Hovmollers: drift from initial condition, vs depth and time. [GitHub issue: Hovmoller temperature anomaly (depth-time)](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/8)](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/temp-salt-vs-depth-time_03.png) 
  
  Caption: `temp-salt-vs-depth-time.ipynb`: ACCESS-OM3 and ACCESS-OM2 horizontal mean so Hovmollers: drift from initial condition, vs depth and time. [GitHub issue: Hovmoller temperature anomaly (depth-time)](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/8)
  
 
 ## Horizontal mean temperature and salinity Hovmollers
  
-![`temp-salt-vs-depth-time.ipynb`: ACCESS-OM3 and ACCESS-OM2 horizontal mean so Hovmollers: drift from initial condition, vs depth and time. [GitHub issue: Hovmoller temperature anomaly (depth-time)](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/8)](https://ndownloader.figshare.com/files/71102055) 
+![`temp-salt-vs-depth-time.ipynb`: ACCESS-OM3 and ACCESS-OM2 horizontal mean so Hovmollers: drift from initial condition, vs depth and time. [GitHub issue: Hovmoller temperature anomaly (depth-time)](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/8)](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/temp-salt-vs-depth-time_04.png) 
  
  Caption: `temp-salt-vs-depth-time.ipynb`: ACCESS-OM3 and ACCESS-OM2 horizontal mean so Hovmollers: drift from initial condition, vs depth and time. [GitHub issue: Hovmoller temperature anomaly (depth-time)](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/8)
  

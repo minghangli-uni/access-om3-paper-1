@@ -6,7 +6,7 @@ Evaluation figures from ACCESS-OM3 experiment **MC_100km_jra_iaf+wombatlite-test
 
 ## Timeseries of monthly extreme values
  
-![`Timeseries_daily_extreme_from_2D_fields.ipynb`: Global minimum of the monthly minimum (left) and global maximum of the monthly maximum (right) for tos, sos, from the model's online monthly min/max diagnostics.](https://ndownloader.figshare.com/files/71102127) 
+![`Timeseries_daily_extreme_from_2D_fields.ipynb`: Global minimum of the monthly minimum (left) and global maximum of the monthly maximum (right) for tos, sos, from the model's online monthly min/max diagnostics.](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Timeseries_daily_extreme_from_2D_fields_01.png) 
  
  Caption: `Timeseries_daily_extreme_from_2D_fields.ipynb`: Global minimum of the monthly minimum (left) and global maximum of the monthly maximum (right) for tos, sos, from the model's online monthly min/max diagnostics.
  

@@ -6,21 +6,21 @@ Evaluation figures from ACCESS-OM3 experiment **MC_100km_jra_iaf+wombatlite-test
 
 ## Equatorial Pacific
  
-![`Equatorial_pacific.ipynb`: Contours of temperature and zonal velocity in the equatorial Pacific compared to observations from Johnson et al. (2002). [GitHub issue: Equatorial T & zonal velocity contours](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/17)](https://ndownloader.figshare.com/files/71102079) 
+![`Equatorial_pacific.ipynb`: Contours of temperature and zonal velocity in the equatorial Pacific compared to observations from Johnson et al. (2002). [GitHub issue: Equatorial T & zonal velocity contours](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/17)](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Equatorial_pacific_01.png) 
  
  Caption: `Equatorial_pacific.ipynb`: Contours of temperature and zonal velocity in the equatorial Pacific compared to observations from Johnson et al. (2002). [GitHub issue: Equatorial T & zonal velocity contours](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/17)
  
 
 ## Equatorial Pacific temperature bias
  
-![`Equatorial_pacific.ipynb`: Model-minus-WOA23 temperature bias (colour) along the equator, with WOA23 isotherms (thin black contours, every 2°C) and the 20°C isotherm from WOA23 (solid) and the model (dashed) overlaid. NOTE: no existing GitHub issue currently tracks this figure — please create one following the repo convention (one issue per figure) and update this caption/link.](https://ndownloader.figshare.com/files/71102082) 
+![`Equatorial_pacific.ipynb`: Model-minus-WOA23 temperature bias (colour) along the equator, with WOA23 isotherms (thin black contours, every 2°C) and the 20°C isotherm from WOA23 (solid) and the model (dashed) overlaid. NOTE: no existing GitHub issue currently tracks this figure — please create one following the repo convention (one issue per figure) and update this caption/link.](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Equatorial_pacific_02.png) 
  
  Caption: `Equatorial_pacific.ipynb`: Model-minus-WOA23 temperature bias (colour) along the equator, with WOA23 isotherms (thin black contours, every 2°C) and the 20°C isotherm from WOA23 (solid) and the model (dashed) overlaid. NOTE: no existing GitHub issue currently tracks this figure — please create one following the repo convention (one issue per figure) and update this caption/link.
  
 
 ## Equatorial Pacific profiles
  
-![`Equatorial_pacific.ipynb`: Vertical profiles of temperature (top) and zonal velocity (bottom) at 165°E, 140°W and 110°W, compared to the TAO array, Johnson et al. (2002) and (temperature only) WOA23. NOTE: no existing GitHub issue currently tracks this figure — please create one following the repo convention (one issue per figure) and update this caption/link.](https://ndownloader.figshare.com/files/71102088) 
+![`Equatorial_pacific.ipynb`: Vertical profiles of temperature (top) and zonal velocity (bottom) at 165°E, 140°W and 110°W, compared to the TAO array, Johnson et al. (2002) and (temperature only) WOA23. NOTE: no existing GitHub issue currently tracks this figure — please create one following the repo convention (one issue per figure) and update this caption/link.](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Equatorial_pacific_03.png) 
  
  Caption: `Equatorial_pacific.ipynb`: Vertical profiles of temperature (top) and zonal velocity (bottom) at 165°E, 140°W and 110°W, compared to the TAO array, Johnson et al. (2002) and (temperature only) WOA23. NOTE: no existing GitHub issue currently tracks this figure — please create one following the repo convention (one issue per figure) and update this caption/link.
  

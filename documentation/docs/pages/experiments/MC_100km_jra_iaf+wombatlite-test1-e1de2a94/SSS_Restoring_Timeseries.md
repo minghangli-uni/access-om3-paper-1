@@ -6,14 +6,14 @@ Evaluation figures from ACCESS-OM3 experiment **MC_100km_jra_iaf+wombatlite-test
 
 ## SSS Restoring
  
-![`SSS_Restoring_Timeseries.ipynb`: ACCESS-OM3 sea surface salinity bias relative to WOA restoring target. [GitHub issue: SSS restoring maps/timeseries](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/44)](https://ndownloader.figshare.com/files/71102103) 
+![`SSS_Restoring_Timeseries.ipynb`: ACCESS-OM3 sea surface salinity bias relative to WOA restoring target. [GitHub issue: SSS restoring maps/timeseries](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/44)](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/SSS_Restoring_Timeseries_01.png) 
  
  Caption: `SSS_Restoring_Timeseries.ipynb`: ACCESS-OM3 sea surface salinity bias relative to WOA restoring target. [GitHub issue: SSS restoring maps/timeseries](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/44)
  
 
 ## SSS Restoring
  
-![`SSS_Restoring_Timeseries.ipynb`: ACCESS-OM2 sea surface salinity bias relative to WOA restoring target. [GitHub issue: SSS restoring maps/timeseries](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/44)](https://ndownloader.figshare.com/files/71102112) 
+![`SSS_Restoring_Timeseries.ipynb`: ACCESS-OM2 sea surface salinity bias relative to WOA restoring target. [GitHub issue: SSS restoring maps/timeseries](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/44)](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/SSS_Restoring_Timeseries_02.png) 
  
  Caption: `SSS_Restoring_Timeseries.ipynb`: ACCESS-OM2 sea surface salinity bias relative to WOA restoring target. [GitHub issue: SSS restoring maps/timeseries](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/44)
  

@@ -6,14 +6,14 @@ Evaluation figures from ACCESS-OM3 experiment **MC_100km_jra_iaf+wombatlite-test
 
 ## Overturning Circulation
  
-![`Overturning_in_ACCESS_OM3.ipynb`: Density-space overturning streamfunction comparing ACCESS-OM3 and ACCESS-OM2. [GitHub issue: Overturning circulation](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/6)](https://ndownloader.figshare.com/files/71101746) 
+![`Overturning_in_ACCESS_OM3.ipynb`: Density-space overturning streamfunction comparing ACCESS-OM3 and ACCESS-OM2. [GitHub issue: Overturning circulation](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/6)](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Overturning_in_ACCESS_OM3_01.png) 
  
  Caption: `Overturning_in_ACCESS_OM3.ipynb`: Density-space overturning streamfunction comparing ACCESS-OM3 and ACCESS-OM2. [GitHub issue: Overturning circulation](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/6)
  
 
 ## Overturning Circulation
  
-![`Overturning_in_ACCESS_OM3.ipynb`: Timeseries of overturning streamfunction at key latitudes comparing ACCESS-OM3 and ACCESS-OM2. [GitHub issue: AMOC time series](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/7)](https://ndownloader.figshare.com/files/71101749) 
+![`Overturning_in_ACCESS_OM3.ipynb`: Timeseries of overturning streamfunction at key latitudes comparing ACCESS-OM3 and ACCESS-OM2. [GitHub issue: AMOC time series](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/7)](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Overturning_in_ACCESS_OM3_02.png) 
  
  Caption: `Overturning_in_ACCESS_OM3.ipynb`: Timeseries of overturning streamfunction at key latitudes comparing ACCESS-OM3 and ACCESS-OM2. [GitHub issue: AMOC time series](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/7)
  

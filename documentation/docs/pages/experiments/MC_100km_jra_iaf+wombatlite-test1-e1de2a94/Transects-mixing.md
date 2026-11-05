@@ -6,35 +6,35 @@ Evaluation figures from ACCESS-OM3 experiment **MC_100km_jra_iaf+wombatlite-test
 
 ## P16 vertical mixing transects
  
-![`Transects-mixing.ipynb`: P16 vertical mixing](https://ndownloader.figshare.com/files/71102652) 
+![`Transects-mixing.ipynb`: P16 vertical mixing](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Transects-mixing_01.png) 
  
  Caption: `Transects-mixing.ipynb`: P16 vertical mixing
  
 
 ## P02 vertical mixing transects
  
-![`Transects-mixing.ipynb`: P02 vertical mixing](https://ndownloader.figshare.com/files/71102655) 
+![`Transects-mixing.ipynb`: P02 vertical mixing](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Transects-mixing_02.png) 
  
  Caption: `Transects-mixing.ipynb`: P02 vertical mixing
  
 
 ## P02 vertical mixing maps
  
-![`Transects-mixing.ipynb`: P02 vertical mixing maps](https://ndownloader.figshare.com/files/71102658) 
+![`Transects-mixing.ipynb`: P02 vertical mixing maps](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Transects-mixing_03.png) 
  
  Caption: `Transects-mixing.ipynb`: P02 vertical mixing maps
  
 
 ## P16 transect of largest vertical mixing term
  
-![`Transects-mixing.ipynb`: P16 transect of largest vertical mixing term](https://ndownloader.figshare.com/files/71102667) 
+![`Transects-mixing.ipynb`: P16 transect of largest vertical mixing term](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Transects-mixing_04.png) 
  
  Caption: `Transects-mixing.ipynb`: P16 transect of largest vertical mixing term
  
 
 ## P02 transect of largest vertical mixing term
  
-![`Transects-mixing.ipynb`: P02 transect of largest vertical mixing term](https://ndownloader.figshare.com/files/71102679) 
+![`Transects-mixing.ipynb`: P02 transect of largest vertical mixing term](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Transects-mixing_05.png) 
  
  Caption: `Transects-mixing.ipynb`: P02 transect of largest vertical mixing term
  

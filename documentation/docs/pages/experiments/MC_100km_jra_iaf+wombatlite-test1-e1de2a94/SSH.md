@@ -6,7 +6,7 @@ Evaluation figures from ACCESS-OM3 experiment **MC_100km_jra_iaf+wombatlite-test
 
 ## Sea Surface Height
  
-![`SSH.ipynb`: Sea surface height mean and standard deviation comparison for ACCESS-OM3 and ACCESS-OM2. [GitHub issue: Global dynamic sea level](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/4) [GitHub issue: Sea level anomaly std dev](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/5)](https://ndownloader.figshare.com/files/71102415) 
+![`SSH.ipynb`: Sea surface height mean and standard deviation comparison for ACCESS-OM3 and ACCESS-OM2. [GitHub issue: Global dynamic sea level](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/4) [GitHub issue: Sea level anomaly std dev](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/5)](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/SSH_01.png) 
  
  Caption: `SSH.ipynb`: Sea surface height mean and standard deviation comparison for ACCESS-OM3 and ACCESS-OM2. [GitHub issue: Global dynamic sea level](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/4) [GitHub issue: Sea level anomaly std dev](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/5)
  

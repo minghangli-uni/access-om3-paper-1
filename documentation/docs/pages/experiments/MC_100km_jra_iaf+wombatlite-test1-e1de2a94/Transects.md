@@ -6,98 +6,98 @@ Evaluation figures from ACCESS-OM3 experiment **MC_100km_jra_iaf+wombatlite-test
 
 ## SR3 temperature and salinity transects
  
-![`Transects.ipynb`: SR3 temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA](https://ndownloader.figshare.com/files/71102514) 
+![`Transects.ipynb`: SR3 temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Transects_01.png) 
  
  Caption: `Transects.ipynb`: SR3 temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA
  
 
 ## P16 temperature and salinity transects
  
-![`Transects.ipynb`: P16 temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA](https://ndownloader.figshare.com/files/71102538) 
+![`Transects.ipynb`: P16 temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Transects_02.png) 
  
  Caption: `Transects.ipynb`: P16 temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA
  
 
 ## A16 temperature and salinity transects
  
-![`Transects.ipynb`: A16 temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA](https://ndownloader.figshare.com/files/71102541) 
+![`Transects.ipynb`: A16 temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Transects_03.png) 
  
  Caption: `Transects.ipynb`: A16 temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA
  
 
 ## I08-09 temperature and salinity transects
  
-![`Transects.ipynb`: I08-09 temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA](https://ndownloader.figshare.com/files/71102547) 
+![`Transects.ipynb`: I08-09 temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Transects_04.png) 
  
  Caption: `Transects.ipynb`: I08-09 temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA
  
 
 ## P02 temperature and salinity transects
  
-![`Transects.ipynb`: P02 temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA](https://ndownloader.figshare.com/files/71102565) 
+![`Transects.ipynb`: P02 temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Transects_05.png) 
  
  Caption: `Transects.ipynb`: P02 temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA
  
 
 ## P04 temperature and salinity transects
  
-![`Transects.ipynb`: P04 temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA](https://ndownloader.figshare.com/files/71102568) 
+![`Transects.ipynb`: P04 temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Transects_06.png) 
  
  Caption: `Transects.ipynb`: P04 temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA
  
 
 ## P06 temperature and salinity transects
  
-![`Transects.ipynb`: P06 temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA](https://ndownloader.figshare.com/files/71102571) 
+![`Transects.ipynb`: P06 temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Transects_07.png) 
  
  Caption: `Transects.ipynb`: P06 temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA
  
 
 ## OSNAP temperature and salinity transects
  
-![`Transects.ipynb`: OSNAP temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA](https://ndownloader.figshare.com/files/71102577) 
+![`Transects.ipynb`: OSNAP temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Transects_08.png) 
  
  Caption: `Transects.ipynb`: OSNAP temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA
  
 
 ## A02 temperature and salinity transects
  
-![`Transects.ipynb`: A02 temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA](https://ndownloader.figshare.com/files/71102589) 
+![`Transects.ipynb`: A02 temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Transects_09.png) 
  
  Caption: `Transects.ipynb`: A02 temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA
  
 
 ## A05 temperature and salinity transects
  
-![`Transects.ipynb`: A05 temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA](https://ndownloader.figshare.com/files/71102595) 
+![`Transects.ipynb`: A05 temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Transects_10.png) 
  
  Caption: `Transects.ipynb`: A05 temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA
  
 
 ## A10 temperature and salinity transects
  
-![`Transects.ipynb`: A10 temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA](https://ndownloader.figshare.com/files/71102601) 
+![`Transects.ipynb`: A10 temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Transects_11.png) 
  
  Caption: `Transects.ipynb`: A10 temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA
  
 
 ## Mediterranean outflow temperature and salinity transects
  
-![`Transects.ipynb`: Mediterranean outflow temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA](https://ndownloader.figshare.com/files/71102607) 
+![`Transects.ipynb`: Mediterranean outflow temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Transects_12.png) 
  
  Caption: `Transects.ipynb`: Mediterranean outflow temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA
  
 
 ## I05 west temperature and salinity transects
  
-![`Transects.ipynb`: I05 west temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA](https://ndownloader.figshare.com/files/71102610) 
+![`Transects.ipynb`: I05 west temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Transects_13.png) 
  
  Caption: `Transects.ipynb`: I05 west temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA
  
 
 ## I05 east temperature and salinity transects
  
-![`Transects.ipynb`: I05 east temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA](https://ndownloader.figshare.com/files/71102619) 
+![`Transects.ipynb`: I05 east temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/Transects_14.png) 
  
  Caption: `Transects.ipynb`: I05 east temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA
  

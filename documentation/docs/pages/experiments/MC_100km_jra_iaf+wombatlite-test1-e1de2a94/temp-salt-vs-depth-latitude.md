@@ -6,7 +6,7 @@ Evaluation figures from ACCESS-OM3 experiment **MC_100km_jra_iaf+wombatlite-test
 
 ## Global zonal mean temperature and salinity transects
  
-![`temp-salt-vs-depth-latitude.ipynb`: Global zonal mean temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA. GitHub issues: [#11](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/11) Zonally averaged T/S bias, [#13](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/13) WOCE/GO-SHIP meridional transects](https://ndownloader.figshare.com/files/71102502) 
+![`temp-salt-vs-depth-latitude.ipynb`: Global zonal mean temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA. GitHub issues: [#11](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/11) Zonally averaged T/S bias, [#13](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/13) WOCE/GO-SHIP meridional transects](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/temp-salt-vs-depth-latitude_01.png) 
  
  Caption: `temp-salt-vs-depth-latitude.ipynb`: Global zonal mean temperature and salinity bias of ACCESS-OM3 and ACCESS-OM2 relative to WOA. GitHub issues: [#11](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/11) Zonally averaged T/S bias, [#13](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/13) WOCE/GO-SHIP meridional transects
  

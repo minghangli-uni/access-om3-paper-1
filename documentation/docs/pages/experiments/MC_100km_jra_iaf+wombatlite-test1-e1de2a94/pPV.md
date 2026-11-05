@@ -6,7 +6,7 @@ Evaluation figures from ACCESS-OM3 experiment **MC_100km_jra_iaf+wombatlite-test
 
 ## Planetary Potential Vorticity
  
-![`pPV.ipynb`: Meridional transects of mean planetary geostrophic potential vorticity, potential density anomaly, and max/min monthly mean MLD. [GitHub issue: Planetary geostrophic potential vorticity / SAMW transects](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/14)](https://ndownloader.figshare.com/files/71102070) 
+![`pPV.ipynb`: Meridional transects of mean planetary geostrophic potential vorticity, potential density anomaly, and max/min monthly mean MLD. [GitHub issue: Planetary geostrophic potential vorticity / SAMW transects](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/14)](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/pPV_01.png) 
  
  Caption: `pPV.ipynb`: Meridional transects of mean planetary geostrophic potential vorticity, potential density anomaly, and max/min monthly mean MLD. [GitHub issue: Planetary geostrophic potential vorticity / SAMW transects](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/14)
  

@@ -6,49 +6,49 @@ Evaluation figures from ACCESS-OM3 experiment **MC_100km_jra_iaf+wombatlite-test
 
 ## Mixed Layer Depth Max
  
-![`MLD_max.ipynb`: ACCESS-OM3 maximum mixed layer depth. [GitHub issue: Time-max mixed layer depth maps](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/38)](https://ndownloader.figshare.com/files/71101719) 
+![`MLD_max.ipynb`: ACCESS-OM3 maximum mixed layer depth. [GitHub issue: Time-max mixed layer depth maps](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/38)](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/MLD_max_01.png) 
  
  Caption: `MLD_max.ipynb`: ACCESS-OM3 maximum mixed layer depth. [GitHub issue: Time-max mixed layer depth maps](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/38)
  
 
 ## Mixed Layer Depth Max
  
-![`MLD_max.ipynb`: ACCESS-OM3 maximum mixed layer depth. [GitHub issue: Time-max mixed layer depth maps](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/38)](https://ndownloader.figshare.com/files/71101722) 
+![`MLD_max.ipynb`: ACCESS-OM3 maximum mixed layer depth. [GitHub issue: Time-max mixed layer depth maps](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/38)](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/MLD_max_02.png) 
  
  Caption: `MLD_max.ipynb`: ACCESS-OM3 maximum mixed layer depth. [GitHub issue: Time-max mixed layer depth maps](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/38)
  
 
 ## Mixed Layer Depth Max
  
-![`MLD_max.ipynb`: ACCESS-OM3 maximum mixed layer depth. [GitHub issue: Time-max mixed layer depth maps](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/38)](https://ndownloader.figshare.com/files/71101728) 
+![`MLD_max.ipynb`: ACCESS-OM3 maximum mixed layer depth. [GitHub issue: Time-max mixed layer depth maps](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/38)](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/MLD_max_03.png) 
  
  Caption: `MLD_max.ipynb`: ACCESS-OM3 maximum mixed layer depth. [GitHub issue: Time-max mixed layer depth maps](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/38)
  
 
 ## Mixed Layer Depth Max
  
-![`MLD_max.ipynb`: ACCESS-OM3 maximum mixed layer depth. [GitHub issue: Time-max mixed layer depth maps](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/38)](https://ndownloader.figshare.com/files/71101731) 
+![`MLD_max.ipynb`: ACCESS-OM3 maximum mixed layer depth. [GitHub issue: Time-max mixed layer depth maps](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/38)](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/MLD_max_04.png) 
  
  Caption: `MLD_max.ipynb`: ACCESS-OM3 maximum mixed layer depth. [GitHub issue: Time-max mixed layer depth maps](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/38)
  
 
 ## Mixed Layer Depth Max
  
-![`MLD_max.ipynb`: ACCESS-OM3 maximum mixed layer depth. [GitHub issue: Time-max mixed layer depth maps](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/38)](https://ndownloader.figshare.com/files/71101734) 
+![`MLD_max.ipynb`: ACCESS-OM3 maximum mixed layer depth. [GitHub issue: Time-max mixed layer depth maps](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/38)](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/MLD_max_05.png) 
  
  Caption: `MLD_max.ipynb`: ACCESS-OM3 maximum mixed layer depth. [GitHub issue: Time-max mixed layer depth maps](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/38)
  
 
 ## Mixed Layer Depth Max
  
-![`MLD_max.ipynb`: ACCESS-OM3 maximum mixed layer depth. [GitHub issue: Time-max mixed layer depth maps](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/38)](https://ndownloader.figshare.com/files/71101737) 
+![`MLD_max.ipynb`: ACCESS-OM3 maximum mixed layer depth. [GitHub issue: Time-max mixed layer depth maps](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/38)](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/MLD_max_06.png) 
  
  Caption: `MLD_max.ipynb`: ACCESS-OM3 maximum mixed layer depth. [GitHub issue: Time-max mixed layer depth maps](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/38)
  
 
 ## Mixed Layer Depth Max
  
-![`MLD_max.ipynb`: ACCESS-OM3 maximum mixed layer depth. [GitHub issue: Time-max mixed layer depth maps](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/38)](https://ndownloader.figshare.com/files/71101740) 
+![`MLD_max.ipynb`: ACCESS-OM3 maximum mixed layer depth. [GitHub issue: Time-max mixed layer depth maps](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/38)](../../../assets/experiments/MC_100km_jra_iaf+wombatlite-test1-e1de2a94/MLD_max_07.png) 
  
  Caption: `MLD_max.ipynb`: ACCESS-OM3 maximum mixed layer depth. [GitHub issue: Time-max mixed layer depth maps](https://github.com/ACCESS-Community-Hub/access-om3-paper-1/issues/38)
  
