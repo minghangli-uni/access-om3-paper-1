@@ -6,15 +6,15 @@ build:
   jobs:
     pre_build:
     - |
-      python3 - <<'PYEOF'
+      python3 - << 'PYEOF'
       from pathlib import Path
-      experiment = 'MC_100km_jra_iaf+wombatlite-test1-e1de2a94'
-      folder = Path('documentation/docs/pages/experiments') / experiment / 'notebooks'
-      notebooks = sorted(folder.glob('*.ipynb'))
+      experiment = "MC_100km_jra_iaf+wombatlite-test1-e1de2a94"
+      folder = Path("documentation/docs/pages/experiments") / experiment / "notebooks"
+      notebooks = sorted(folder.glob("*.ipynb"))
       if not notebooks:
-          raise SystemExit(f'No local rendered notebooks for {experiment}')
-      print(f'Preview experiment: {experiment}')
-      print(f'Using {len(notebooks)} local rendered notebooks; Figshare downloads disabled.')
+          raise SystemExit(f"No local rendered notebooks for {experiment}")
+      print(f"Preview experiment: {experiment}")
+      print(f"Using {len(notebooks)} local rendered notebooks; Figshare downloads disabled.")
       PYEOF
 mkdocs:
   configuration: documentation/mkdocs.yml
